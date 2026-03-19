@@ -27,19 +27,18 @@
     background:var(--secondary);
     }
     
-    .logo {
-    color:rgb(235, 227, 227);
+    .logo{
+    color:rgb(245, 237, 237);
     font-size:1.8rem;
     font-weight:bold;
-    text-decoration: none;
+    text-decoration-color: black;
     }
-.logo-link{
-    text-decoration: none;
-}
+
     h1{
-        
-        color: rgb(14, 59, 150);
-        text-decoration: none;
+        color:rgb(253, 252, 252);
+        transition:0.3s;
+        color: white;
+        text-decoration-color: black;
     }
 
     .logo a:hover{
