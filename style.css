@@ -147,6 +147,11 @@
     flex-wrap:wrap;
     }
     
+    .Product{
+        
+        padding-top:60px;
+        color: black;
+    }
     
     .card{
     background:white;
