@@ -27,16 +27,18 @@
     background:var(--secondary);
     }
     
-    .logo{
-    color:rgb(245, 237, 237);
+    .logo {
+    color:rgb(235, 227, 227);
     font-size:1.8rem;
     font-weight:bold;
     text-decoration: none;
     }
-
+.logo-link{
+    text-decoration: none;
+}
     h1{
         
-        color: rgb(244, 246, 250);
+        color: rgb(14, 59, 150);
         text-decoration: none;
     }
 
